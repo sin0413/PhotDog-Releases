@@ -2,7 +2,6 @@
 <item>
   <version>0.0.3.0</version>
   <url>https://github.com/sin0413/PhotDog-Releases/releases/download/v0.0.3/PhotDog-0.0.3.0.exe</url>
-  <changelog>https://github.com/sin0413/PhotDog-Releases/releases/tag/v0.0.3</changelog>
-  <checksum algorithm="SHA256">e61751a4b719c161b84cb8a9c572145913f9daf771ac1a873dd6e84bff8c13b6</checksum>
+  <checksum algorithm="SHA256">e61751a4b719c161b84cb8a9c572145913f9daf771ac1a873dd6e84bff8c13b7</checksum>
   <mandatory>false</mandatory>
 </item>
