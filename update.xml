@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>0.0.4.0</version>
-  <url>https://github.com/sin0413/PhotDog-Releases/releases/download/v0.0.4.0/PhotDog-0.0.4.0.exe</url>
-  <checksum algorithm="SHA256">633c16e4745066f4993f8b63f283babdf2089bfb339718032be4c779259b6f2b</checksum>
+  <version>0.0.5.0</version>
+  <url>https://github.com/sin0413/PhotDog-Releases/releases/download/v0.0.5.0/PhotDog-0.0.5.0.exe</url>
+  <checksum algorithm="SHA256">8b2f41730491f201b7cff0a64b9942b0c1291b28a52a6347aea2302a0d213c1b</checksum>
   <mandatory>false</mandatory>
 </item>
